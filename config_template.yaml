@@ -1,0 +1,5 @@
+SERVER_HOST: 0.0.0.0
+SERVER_PORT: 6002
+
+MODEL_NAME: "Qwen/Qwen1.5-7B-Chat"
+DEVICE_MAP: "cuda"
