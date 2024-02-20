@@ -9,6 +9,7 @@ python main.py
 
 ```
 
+# API
 - path：api/v1/compress_prompt
 - method：GET
 - params example:
@@ -31,3 +32,6 @@ python main.py
     }
 }
 ```
+
+# Example
+- [example_zh](example_zh.md)
