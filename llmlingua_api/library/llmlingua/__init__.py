@@ -445,7 +445,6 @@ class PromptCompressor:
         demostrations_sort = self.get_rank_results(
             context,
             question,
-            rank_method,
             condition_in_question,
             context_tokens_length,
         )
