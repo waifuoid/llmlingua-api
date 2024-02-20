@@ -1,7 +1,9 @@
 # Compress Prompt
-compress model: Qwen1.5-0.5B-Chat-AWQ
-response time: 392ms
 reference: https://zhuanlan.zhihu.com/p/660805821
+
+compress model: Qwen1.5-0.5B-Chat-AWQ
+
+response time: 392ms
 
 compress request:
 ```
@@ -27,7 +29,8 @@ compress response:
 
 # Ask for llm 
 question: "1. LLMLingua是什么？\n2. LLMLingua的工作原理是什么？\n3. 介绍一下LLMLingua的各个模块。"
-temperature:0
+
+temperature: 0
 
 ## Qwen1.5-7B-Chat-AWQ
 
